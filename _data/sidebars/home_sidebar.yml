@@ -12,5 +12,5 @@ entries:
       url: 
       output: web
     - title: Security
-      url: 
+      url: security.html
       output: web
