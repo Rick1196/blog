@@ -56,4 +56,9 @@ que mencionamos algunos parrafos mas arriba.
 {% include image.html file="firma.png" url="http://jekyllrb.com" alt="Jekyll" caption="Esquema detallado y tecnico de la firma digital" %}
 
 
+### Bibliografia
+*  [Gal, 2000] (2000).Digital signature standard (DSS).  National Institute of Standards and Technology,Washington.    URL:http://csrc.nist.gov/publications/fips/.  Note:   Federal  InformationProcessing Standard 186-2.
+*  [Diffie and Hellman, 1976] Diffie, W. and Hellman, M. (1976). New directions in cryptography.InformationTheory, IEEE Transactions on, 22(6):644 – 654.
+*  [Enciso, 2011] Enciso, L. I. (2011).  La implementación de la Firma Electrónica en México.EconomíaInforma, (369):97–103.
+
 
