@@ -1,0 +1,26 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Personal GitHub
+      external_url: https://github.com/Rick1196
+    #- title: News
+    #  url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Subjects
+      folderitems:
+        - title: About Me
+          url: about_me.html
+        - title: Development
+          #url: https://talk.jekyllrb.com
+        - title: Security
+          url: security.html
+        #- title: Jekyll on Stack Overflow
+        #  external_url: http://stackoverflow.com/questions/tagged/jekyll
+        #- title: Jekyll on my blog
+        #  external_url: http://idratherbewriting.com/category-jekyll/
