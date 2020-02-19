@@ -1,5 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
-
+repository: Rick1196/blog
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
@@ -33,7 +32,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Anthology of digested knowledge
 
 feedback_email: ricardompp11@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -106,12 +105,12 @@ sidebars:
 #- product2_sidebar
 #- other
 
-description: "Anthology of digested knowledge."
+description: "Anthology of digested knowledge"
 # the description is used in the feed.xml file
 
-#needed for sitemap.xml file only
+# needed for sitemap.xml file only
 url: https://rick1196.github.io
-baseurl: /blog
+# baseurl: /documentation-theme-jekyll
 
 
 github: [metadata]
