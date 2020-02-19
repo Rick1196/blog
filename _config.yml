@@ -109,7 +109,7 @@ description: "Anthology of digested knowledge"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://rick1196.github.io
+url: https://rick1196.github.io/blog
 # baseurl: /documentation-theme-jekyll
 
 
