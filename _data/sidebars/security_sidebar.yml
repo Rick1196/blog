@@ -32,4 +32,9 @@ entries:
       url: /digital_certificates.html
       output: web, pdf
 
+    - title: Maquina enigma
+      url: /enigma.html
+      output: web, pdf
+
+
    
