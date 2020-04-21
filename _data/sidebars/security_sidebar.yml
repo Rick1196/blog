@@ -36,5 +36,9 @@ entries:
       url: /enigma.html
       output: web, pdf
 
+    - title: SHA
+      url: /sha.html
+      output: web, pdf
+
 
    
